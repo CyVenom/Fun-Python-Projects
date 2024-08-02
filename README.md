@@ -1,2 +1,2 @@
 # Fun-Python-Projects
-I code some funny Pyhton codes 
+I code some funny Python codes 
